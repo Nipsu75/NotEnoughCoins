@@ -1,9 +1,5 @@
 NotEnoughCoins
 
-Downloads
-
-Downloads
-
 A SkyBlock Flipping Mod.
 
     /nec - Shows the config GUI
